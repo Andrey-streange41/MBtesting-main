@@ -1,0 +1,9 @@
+[
+  {
+    "_id": "6412c4f35be19da307b1a874",
+    "creationDate": { "$date": "2023-03-16T07:27:47.922Z" },
+    "email": "123455@ukr.net",
+    "name": "User 1",
+    "userAvatar": "https://randomwordgenerator.com/img/picture-generator/55e1d3474950b10ff3d8992cc12c30771037dbf852547848722a79d5974d_640.jpg"
+  }
+]
